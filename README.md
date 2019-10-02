@@ -23,3 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 Language/Framework | Github Repo and Installation Instructions |
 ----- | ----- |
 Java | https://www.martinfowler.com/microservices/
+
+### Blogs
+- https://martinfowler.com/articles/richardsonMaturityModel.html
+
